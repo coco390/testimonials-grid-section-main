@@ -9,13 +9,13 @@ This is a solution to the [Testimonial Grid Section challenge on Frontend Mentor
   - [Links](#links)
   - [Built With](#built-with)
   - [What I Learned](#what-i-learned)
-  
+
 ### Screenshot
 
 ![Testimonial Grid Section Screenshot](./design/desktop-design.jpg)
 
 ### Links
-- Live Site URL: [https://coco390.github.io/testimonials-grid-section-main/](#)
+- You can view the live site here: [View Live](https://coco390.github.io/testimonials-grid-section-main/)
 
 ### Built With
 
